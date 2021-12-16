@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente GifGrid debe de hacer match en snapshot 1`] = `
+<Fragment>
+  <h3>
+    Ultra instinto
+  </h3>
+  <p>
+    Cargando...
+  </p>
+  <div
+    className="cardGrid"
+  />
+</Fragment>
+`;

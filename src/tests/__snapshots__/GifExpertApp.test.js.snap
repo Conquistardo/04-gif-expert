@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas del coponente GifExpertApp debe de mostrar una lista de categorias 1`] = `
+<Fragment>
+  <h2>
+    GifExperApp
+  </h2>
+  <AddCategory
+    setCatergorias={[Function]}
+  />
+  <hr />
+  <ol>
+    <GifGrid
+      categoria="One Pounch"
+      key="One Pounch"
+    />
+    <GifGrid
+      categoria="Ultra instinto"
+      key="Ultra instinto"
+    />
+  </ol>
+</Fragment>
+`;
+
+exports[`Pruebas del coponente GifExpertApp el snapshot debe hacer match  1`] = `
+<Fragment>
+  <h2>
+    GifExperApp
+  </h2>
+  <AddCategory
+    setCatergorias={[Function]}
+  />
+  <hr />
+  <ol />
+</Fragment>
+`;
